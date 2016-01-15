@@ -102,7 +102,7 @@ require(['lodash'], function(lodash) {
         return {
           value: v
         };
-      }).catch(function(e) {
+      })['catch'](function(e) {
         return {
           error: e
         };
