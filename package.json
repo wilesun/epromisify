@@ -1,0 +1,8 @@
+{
+  "name": "epromise",
+  "version": "1.0.0",
+  "description": "require.js style promise extension",
+  "main": "promoisify.js",
+  "author": "wilesun",
+  "license": "GPL"
+}
